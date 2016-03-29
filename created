@@ -23,6 +23,7 @@ files:
 - blk3_2.gex
 - cap3p.gex
 - cex.mdl
+- created
 - drc.mdl
 - effector0701.gex
 - effector0701.jpg
@@ -57,3 +58,4 @@ files:
 - r100k.gex
 - r10k.gex
 - r500k.gex
+- test.txt
